@@ -1,0 +1,8 @@
+# Solo ignorar archivos temporales
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Los ejecutables SÍ se suben a este repositorio
+# (no los ignores)
