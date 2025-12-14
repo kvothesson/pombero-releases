@@ -189,4 +189,3 @@ Este proyecto es de código abierto. Úsalo y modifícalo como quieras.
 ---
 
 **"El Sistema te observa desde las sombras..."** 🕯️
-
